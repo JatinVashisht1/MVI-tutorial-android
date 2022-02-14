@@ -1,4 +1,4 @@
-package com.example.mvitutorialyoutube.ui.theme
+package com.example.mvitutorialyoutube.presentation.ui.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
